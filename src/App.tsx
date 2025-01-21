@@ -1,5 +1,6 @@
 import React from 'react';
 import { Github, Linkedin, Twitter, Instagram, Download, Mail, Award, BookOpen, Code, Users } from 'lucide-react';
+import profilePic from './profile-pic.png';
 
 function App() {
   return (
@@ -34,7 +35,7 @@ function App() {
           </div>
           <div className="md:w-1/2 mt-8 md:mt-0">
             <img 
-              src="/profile-pic.png"
+              src="src/profile-pic.png"
               alt="Rahul Nimbalkar"
               className="rounded-full w-64 h-64 object-cover mx-auto border-4 border-purple-500"
             />
