@@ -236,7 +236,7 @@ function App() {
               <Mail size={20} />
               <span>contact@rahulnimbalkar639@gmail.com</span>
             </a>
-            <a href="/resume.pdf" download className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
+            <a href="../Rahul Nimbalkar-AIML.pdf" download className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
               <Download size={20} />
               <span>Download Resume</span>
             </a>
