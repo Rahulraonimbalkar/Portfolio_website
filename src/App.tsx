@@ -50,7 +50,6 @@ function App() {
             
             { icon: Award, label: "Awards Won", value: "5+" },
             { icon: BookOpen, label: "Publications", value: "2" },
-            { icon: Users, label: "Hobbies", value: "Playing oudoor games" }
           ].map((stat, index) => (
             <div key={index} className="bg-gray-800 p-6 rounded-lg text-center hover:transform hover:scale-105 transition-transform">
               <stat.icon className="w-8 h-8 mx-auto mb-4 text-purple-400" />
