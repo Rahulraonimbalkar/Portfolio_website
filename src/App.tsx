@@ -234,7 +234,7 @@ function App() {
           <div className="flex flex-col space-y-4 items-center">
             <a href="mailto:contact@rahulnimbalkar.com" className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
               <Mail size={20} />
-              <span>contact@rahulnimbalkar.com</span>
+              <span>contact@rahulnimbalkar639@gmail.com</span>
             </a>
             <a href="/resume.pdf" download className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
               <Download size={20} />
