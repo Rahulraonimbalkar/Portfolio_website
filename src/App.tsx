@@ -35,7 +35,7 @@ function App() {
           <div className="md:w-1/2 mt-8 md:mt-0">
             <img 
               src="src/profile-pic (1).png" 
-              alt="Rahul Nimbalkar"
+{/*               alt="Rahul Nimbalkar" */}
               className="rounded-full w-64 h-64 object-cover mx-auto border-4 border-purple-500"
             />
           </div>
