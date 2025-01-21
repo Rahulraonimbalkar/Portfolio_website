@@ -232,7 +232,7 @@ function App() {
         <div className="bg-gray-800 p-8 rounded-lg max-w-2xl mx-auto">
           <h2 className="text-3xl font-bold text-white mb-8 text-center">Get In Touch</h2>
           <div className="flex flex-col space-y-4 items-center">
-            <a href="mailto:contact@rahulnimbalkar.com" className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
+            <a href="mailto:rahulnimbalkar639@gmail.com" className="flex items-center space-x-2 text-gray-300 hover:text-white transition-colors">
               <Mail size={20} />
               <span>contact@rahulnimbalkar639@gmail.com</span>
             </a>
