@@ -1,6 +1,7 @@
 import React from 'react';
 import { Github, Linkedin, Twitter, Instagram, Download, Mail, Award, BookOpen, Code, Users } from 'lucide-react';
 import profilePic from './profile-pic.png';
+import Timeline from './Timeline';
 
 function App() {
   return (
@@ -210,6 +211,8 @@ function App() {
           ))}
         </div>
       </div>
+
+      <Timeline />
 
       {/* Skills Section */}
       <div className="container mx-auto px-4 py-20">
