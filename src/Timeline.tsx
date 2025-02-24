@@ -2,25 +2,31 @@ import { motion } from 'framer-motion';
 
 const timeline = [
   {
-    year: "2024",
+    year: "2024 - Present",
     title: "AI Software Developer",
     institution: "Resilience inc",
     description: "Leading mobile and AI projects"
   },
   {
-    year: "2022",
+    year: "2022 2024",
     title: "Master's in Computer Science",
     institution: "University At Buffalo",
-    description: "Specialized in AI/ML and Mobile Computing"
+    description: "Specialized in AI/ML and Software development"
   },
   {
-    year: "2020",
-    title: "Software Engineering Intern",
-    institution: "StartUp Inc",
+    year: "2021 - 2022",
+    title: "Software Engineer (AI/ML)",
+    institution: "Proton ai",
+    description: "AI application building"
+  },
+  {
+    year: "2020 - 2021",
+    title: "Data Analyst",
+    institution: "Shantal pvt ltd",
     description: "Full-stack development experience"
   },
   {
-    year: "2016",
+    year: "2016 - 2020",
     title: "Bachelor's in Computer Engineering",
     institution: "Engineering College",
     description: "First Class with Distinction"
