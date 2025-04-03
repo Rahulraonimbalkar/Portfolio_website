@@ -8,6 +8,12 @@ const timeline = [
     description: "Leading mobile and AI projects"
   },
   {
+    year: "2023 - 2024",
+    title: "AI Software Developer",
+    institution: "Y -LIFT",
+    description: "Healthcare project and AI implementation"
+  },
+  {
     year: "2022 2024",
     title: "Master's in Computer Science",
     institution: "University At Buffalo",
