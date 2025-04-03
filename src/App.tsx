@@ -74,6 +74,12 @@ function App() {
               description: "Leading AI/ML initiatives and developing cutting-edge solutions"
             },
             {
+              company: "Y -Lift",
+              role: "AI Software Developer",
+              period: "July 2023 - January 2024",
+              description: "Leading Healthcare project with developing Ai solutions"
+            },
+            {
               company: "Protonn",
               role: "Software Developer",
               period: "Feb 2021 - June 2022",
@@ -88,7 +94,7 @@ function App() {
             {
               company: "Shantala Pvt Ltd",
               role: "Data Analyst",
-              period: "June 2020 - Dec 2020",
+              period: "Jan 2020 - Dec 2020",
               description: "Data Analysis and e-commerce recommendation engine"
             }
           ].map((exp, index) => (
